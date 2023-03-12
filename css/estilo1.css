@@ -1,0 +1,58 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Sans-serif;
+}
+body {
+    max-width: 400px;
+    margin: auto;
+    background-color: rgb(6,12,37);
+    background-image: url("../img/fondo3.jpg");
+    background-repeat: repeat-y;
+    background-position: top;
+    background-size: 100%;
+
+
+    }
+
+
+.tama{
+        margin: auto;
+    background-size: 100%;
+    max-width: 400px;
+    margin-bottom: 20px;
+    margin-left: 0;
+      width: 360px;
+
+}
+
+
+#hf{
+    width: 360px;
+}
+
+#hm{
+    width: 360px;
+}
+
+#cjf{
+    width: 360px;
+}
+
+#cjm{
+    width: 360px;
+}
+
+#cjp{
+    width: 360px;
+}
+footer a{
+    background-color: blue;
+    color: aliceblue;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 10px;
+    text-decoration: none;
+    
+}
