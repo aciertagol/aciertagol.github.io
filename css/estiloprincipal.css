@@ -1,0 +1,199 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Sans-serif;
+}
+
+
+body {
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(6,12,37);
+    background-image: url("../img/fondo3.jpg");
+    background-repeat: repeat-y;
+    background-position: top;
+}  
+
+.quiniela {
+    margin: auto;
+    background: red;
+    background-image: url("../img/MEDIAP.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    max-width: 400px;
+    border-radius: 15px;
+    height: 9000px;
+
+}
+.encabezado{
+     margin: auto;
+     margin-left: auto;
+     margin-right: auto;
+     height: 53px;
+    background-image: url("../img/cabp.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+   
+    
+}
+
+
+.let{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    max-width: 500px;
+    
+}
+h2{
+
+    text-align: center;
+    font-weight: bold;
+
+}
+#la{
+    margin-left: 0px;
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    
+}
+#rec{
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+font-weight: bold;
+
+}
+#reci{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+font-weight: bold;
+}
+.bot{
+
+    display: inline-flex;
+    margin-top: 38px;
+    margin: auto;
+    max-width: 500px;
+    height: auto;
+    padding: 5px;
+    
+}
+
+a{
+   
+    background:  linear-gradient(0,  rgb(60,70,230) 20%, rgb(30,30,57) 90%);
+    color: rgb(255, 255, 255);
+    width: 90px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 3px;
+    font-size: 12px;
+    margin-left: 15px;
+    margin-right: 15px;
+
+ }
+
+ 
+#media{
+    background:linear-gradient(0,  rgb(230,70,40) 20%, rgb(120,30,57) 90%);
+
+
+}
+
+
+.contenedor{
+    margin: auto;
+    max-width: 400px;
+    display: inline-flex;
+    width: auto;
+    height: auto;
+    margin-top: 5px;
+    
+    
+    
+
+}
+
+.repo{
+
+    margin: auto;
+    width: 150px;
+    background-size: 100%;
+    max-width: 190px;
+    height: 169px;
+    margin-left:2px;
+    
+    
+
+
+}
+
+
+
+#med{
+    margin-left: 4px;
+    
+   background-image: url("../img/MEDIAP.png");
+     background-size: 100%;
+    align-content:center;
+    overflow: hidden;
+    background-repeat: no-repeat;
+
+}
+#fi{
+    float: right;
+    margin-right: 4px;
+    background-image: url("../img/finj.png");
+    background-size: 100%;
+    align-content:center;
+    overflow: hidden;
+    background-repeat: no-repeat;
+ }   
+#med:hover{
+
+    transform: translateX(40px)translateY(-30PX)scale(1.9);
+   
+    
+    
+
+
+}
+#fi:hover{
+    transform:translateX(-40px)translateY(-30px) scale(1.9);
+    
+}
+.bajo{ 
+   margin: auto;
+    
+    width: 150px;
+    height: 150px;
+    background-image: url("../img/Aciertagol1.png");
+    background-size: 150px;
+    text-align: center;
+    background-repeat: no-repeat;
+    max-width: 400px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+
+}
+
+h4{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+
+}
+#contacto{
+    font-size: 15px;
+    background: transparent;
+    margin-left:0px;
+    color: rgb(239, 247, 0);
+}
